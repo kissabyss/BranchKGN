@@ -1,1 +1,5 @@
 *.tsv.gz filter=lfs diff=lfs merge=lfs -text
+Data/pbmc_unsorted_3k/barcodes.tsv.gz filter=lfs diff=lfs merge=lfs -text
+Data/pbmc_unsorted_3k/features.tsv.gz filter=lfs diff=lfs merge=lfs -text
+Data/pbmc_unsorted_3k/matrix.tsv.gz filter=lfs diff=lfs merge=lfs -text
+Data/pbmc_unsorted_3k/pbmc_unsorted_3k_atac_fragments.tsv.gz filter=lfs diff=lfs merge=lfs -text
